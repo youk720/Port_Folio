@@ -6,11 +6,12 @@
 <img src="https://lh4.googleusercontent.com/2gykHa90LLMMS1d3rRmvcWmajSbHtf1q3xtpaaFP8M7noH133Ju9inwqQMIGoa1AGR4f-KxZZzBwe74w1Jxg1h7aOUBp07-G8ytws8CHTosvi9B1JSK0rj12ZIS-hqqsq_Se83-1" title="発車ベルスイッチ" width="30%" heigh="30%">
 
 <img src="/image/スクリーンショット 2017-12-20 16.47.35.png" width="30%" height="30%">
-[発車メロディサイト(github.io使用)] (https://youk720.github.io/melo_work/melo.html)
+
+[発車メロディサイト](https://youk720.github.io/melo_work/melo.html)
 
 ↑実際に製作したもの
 
-[google](https://www.google.com)
+
 
 - 基本的には”ON”を押すことによってメロディが再生され、OFFが押されるまではメロディはループを続ける。
 - OFFボタンの下の”通常””立川式””ノン被り式”については以下記載
