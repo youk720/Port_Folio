@@ -3,8 +3,7 @@
 ## 使用機材
 - Mac Book
 - Maruduino UNO R3
-
-<![プリント基板_実際](/image/IMG_4806.JPG)
+- <img src="/image/IMG_4806.JPG" width="40%" height="40%">
  前に作った部品付きプリント基板↑
 
 ## 使用ソフト
@@ -22,7 +21,7 @@
   - [コード](https://github.com/youk720/arduino_led/blob/master/analogLED_control.ino)
 - 可変抵抗により点滅速度を変える機能をつける、かつ今までの機能を温存
   - [コード](https://github.com/youk720/arduino_led/blob/master/2type_mod.ino)
-- ![ユニバ基盤](/image/IMG_4301.JPG)
+- <img src="/image/IMG_4301.JPG" width="30%" height="30%")
   - ↑今までのものをユニバーサル基板でつけたもの
 - 基盤のピン番号を確認
   - [コード](https://docs.google.com/spreadsheets/d/18CofA8giMLeH86uY-xxpBrVRsyEB2kDP5-jguv-FJ60/edit?usp=sharing)
