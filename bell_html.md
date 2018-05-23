@@ -10,6 +10,9 @@
 
 <div style="text-align: right;"> ↑が実際に製作したものです </div>
 
+<img src="/image/スクリーンショット 2017-12-20 16.47.35.png" width="30%" height="30%">
+
+<div style="text-align:left;">スクショ画像</div>
 
 - 基本的には”ON”を押すことによってメロディが再生され、OFFが押されるまではメロディはループを続けます。
 - OFFボタンの下の”通常””立川式””ノン被り式”については以下記載
