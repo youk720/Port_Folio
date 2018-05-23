@@ -3,7 +3,7 @@
 ## 駅(JR)で使用されている発車メロディのスイッチをHTML上で再現してみたものです。
 
 <div style="text-align: left">スイッチのイメージ↓</div>
-<img src="https://lh4.googleusercontent.com/2gykHa90LLMMS1d3rRmvcWmajSbHtf1q3xtpaaFP8M7noH133Ju9inwqQMIGoa1AGR4f-KxZZzBwe74w1Jxg1h7aOUBp07-G8ytws8CHTosvi9B1JSK0rj12ZIS-hqqsq_Se83-1" title="発車ベルスイッチ">
+<img src="https://lh4.googleusercontent.com/2gykHa90LLMMS1d3rRmvcWmajSbHtf1q3xtpaaFP8M7noH133Ju9inwqQMIGoa1AGR4f-KxZZzBwe74w1Jxg1h7aOUBp07-G8ytws8CHTosvi9B1JSK0rj12ZIS-hqqsq_Se83-1" title="発車ベルスイッチ" width="30%" heigh="30%">
 
 
 [発車メロディサイト"github.io"使用](https://youk720.github.io/melo_work/melo.html)
